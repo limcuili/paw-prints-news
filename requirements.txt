@@ -1,0 +1,4 @@
+newsapi-python
+slack-sdk
+pytz
+python-dateutil

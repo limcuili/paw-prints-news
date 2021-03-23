@@ -1,0 +1,5 @@
+.idea/
+venv/
+__pycache__/
+secrets_file.py
+run-paw-prints-news.bat
